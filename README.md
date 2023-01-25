@@ -5,4 +5,4 @@ Alert(“Hola mundo”)![image](https://user-images.githubusercontent.com/119256
 Editar archivo (“Hola mundo_editado”); ![image](https://user-images.githubusercontent.com/119256205/214459950-f7227070-b821-478e-a92c-7388e3bc31ee.png)
 Console.log (“cambios en el archivo”); 
 ![image](https://user-images.githubusercontent.com/119256205/214459973-0124e465-c472-4bb1-b671-b0eddce0c59c.png)
-git log
+git blame
